@@ -8,7 +8,7 @@ This repo is a branch of:
 
   https://sourceforge.net/projects/gen-csrs/
 
-Released By Esencia Technologies Inc. under LGPL 3.0 and authored by myself at the time.
+Released By Esencia Technologies Inc. under LGPL 3.0 and authored by myself at the time of the original release.
 
 This repo is a placeholder for bug fixes and new features.
 
