@@ -3,7 +3,7 @@
    <DEFAULTS
       PRI="HOST" 
       CLOCK="PCLK" 
-      APB_ADDR_W="16" 
+      APB_ADDR_W="32" 
       BASE="0x21000" 
       PREFIX_CSRS=""
       PREFIX_PKTS="I2C_"
