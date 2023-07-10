@@ -1,8 +1,12 @@
 *.html
 *.v
+*.ios
+*.ralf
+*.rdl
 *_host_defines.h
 *_host_defines.vh
 *_mmios.h
 *_pe_defines.h
 *_pkt_defines.h
+*_ipxact.xml
 *_regs.pm
