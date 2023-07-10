@@ -50,6 +50,6 @@ There are few output formats that can be ignored for most applications (targetti
     
 Example of use:
 
-    $ ./gen_csrs.pl mycsrs.xml
+    $ ./gen_csrs.pl mycsrs.xml -out myregs.v
 
 Full detailed documentation ont the XML format can be found under the `doc` folder.

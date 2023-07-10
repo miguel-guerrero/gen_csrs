@@ -1,0 +1,8 @@
+*.html
+*.v
+*_host_defines.h
+*_host_defines.vh
+*_mmios.h
+*_pe_defines.h
+*_pkt_defines.h
+*_regs.pm
