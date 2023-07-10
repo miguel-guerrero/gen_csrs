@@ -1613,7 +1613,7 @@ sub syntax {
    Where: f is a valid filename (E.g /path/to/file.txt)
           s is a string then conforms to C identifier rules (E.g. value_max)
           n is a natural number (E.g 2)
-          vn is a verilog formated number/constant (E.g. 32'hdeadbeef)
+          vn is a verilog formatted number/constant (E.g. 32'hdeadbeef)
 
           <mod> is extracted as the basename of the xml_filename if no provided 
           (e.g. /path/timer_csrs.xml yields timer_csrs)
